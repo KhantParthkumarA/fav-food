@@ -15,8 +15,8 @@ export const siteSettings = {
     address: '',
   },
   logo: {
-    url: '/assets/images/logo.svg',
-    alt: 'BoroBazar',
+    url: '/assets/images/logo.vg',
+    alt: 'Fav-Food',
     href: '/',
     width: 128,
     height: 30,
