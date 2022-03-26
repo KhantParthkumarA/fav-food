@@ -15,11 +15,11 @@ export const siteSettings = {
     address: '',
   },
   logo: {
-    url: '/assets/images/logo.vg',
+    url: '/assets/images/logo1.png',
     alt: 'Fav-Food',
     href: '/',
     width: 128,
-    height: 30,
+    height: 50,
   },
   defaultLanguage: 'en',
   currencyCode: 'USD',
